@@ -1,0 +1,35 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+
+/* Write your CSS below, don't change the rules above. */
+
+/* para paragrafos usamos o elemeto P e colocamos as chaves {} */
+p {
+  color: red;
+}
+
+/*para classe usamos o ponto e o nome da classe*/
+.note {
+  font-size: 20px;
+}
+
+/* para id usamos o # e o nome do id*/
+
+#id-selector-demo {
+  color: green;
+}
+
+/* para mudar um item da lista precisamos usar o comando li e colocar o valor igual do item que queremos mudar na lista*/
+
+Li[value="4"] {
+  color: blue;
+}
+
+/* para o seletor universal usamos * */
+* {
+  text-align: center;
+}
